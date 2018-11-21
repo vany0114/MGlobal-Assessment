@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Employees.Web", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Employee.API", "src\Application\MasGlobal.Employee.API\MasGlobal.Employee.API.csproj", "{70CE8465-5F65-4B21-ACB2-D8D3AF228BF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasGlobal.Employees.Business.Specs", "src\Business\MasGlobal.Employees.Business.Specs\MasGlobal.Employees.Business.Specs.csproj", "{76121109-4B6F-4275-B784-0B396CC1F04E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{70CE8465-5F65-4B21-ACB2-D8D3AF228BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70CE8465-5F65-4B21-ACB2-D8D3AF228BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70CE8465-5F65-4B21-ACB2-D8D3AF228BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76121109-4B6F-4275-B784-0B396CC1F04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76121109-4B6F-4275-B784-0B396CC1F04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76121109-4B6F-4275-B784-0B396CC1F04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76121109-4B6F-4275-B784-0B396CC1F04E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +56,7 @@ Global
 		{9F457FC2-0387-4B3D-A524-28CEAEE4AD63} = {60C39130-1662-4E83-B8E4-CC161BA5CE96}
 		{61A61748-0967-4FB7-BFE1-0DFAF4FA4524} = {819790D7-8B4C-45FC-A4E9-D46F915E2E50}
 		{70CE8465-5F65-4B21-ACB2-D8D3AF228BF7} = {BEB369BC-6359-49ED-8EFD-2317C774A162}
+		{76121109-4B6F-4275-B784-0B396CC1F04E} = {60C39130-1662-4E83-B8E4-CC161BA5CE96}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8C2F500D-6472-41EC-9A94-37672A389E97}

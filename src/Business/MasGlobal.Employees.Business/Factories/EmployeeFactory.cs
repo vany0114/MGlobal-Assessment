@@ -29,7 +29,8 @@ namespace MasGlobal.Employees.Business.Factories
 
         private Employee Create(Entity.Employee employeeInfo)
         {
-            switch (Enum.Parse<ContractType>(employeeInfo.ContractTypeName))
+            Enum.TryParse<ContractType>(employeeInfo.ContractTypeName, out var type);
+            switch (type)
             {
                 case ContractType.HourlySalaryEmployee:
                     return _mapper.Map<HourlyEmployee>(employeeInfo);
