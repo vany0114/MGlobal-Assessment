@@ -31,9 +31,9 @@ namespace MasGlobal.Employees.Business.Factories
         {
             switch (Enum.Parse<ContractType>(employeeInfo.ContractTypeName))
             {
-                case ContractType.Hourly:
+                case ContractType.HourlySalaryEmployee:
                     return _mapper.Map<HourlyEmployee>(employeeInfo);
-                case ContractType.Monthly:
+                case ContractType.MonthlySalaryEmployee:
                     return _mapper.Map<MonthlyEmployee>(employeeInfo);
                 default:
                     throw new EmployeeBusinessException("Unable to determine employee contract type.");

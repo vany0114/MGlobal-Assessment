@@ -1,0 +1,33 @@
+<h1>Employees</h1>
+
+<p>Allows you searching employees</p>
+
+<p>Employee Id:<input type="number" id="employee-id" [(ngModel)]="employeeId"></p>
+<button (click)="getEmployees()">Get Employees</button>
+
+<p *ngIf="loading"><em>Loading...</em></p>
+
+<table class='table' *ngIf="employees">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Contract Type</th>
+      <th>Role</th>
+      <th>Salary</th>
+      <th>Annual Salary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employees">
+      <td>{{ employee.id }}</td>
+      <td>{{ employee.name }}</td>
+      <td>{{ employee.contractTypeDescription }}</td>
+      <td>{{ employee.role }}</td>
+      <td>{{ employee.salary }}</td>
+      <td>{{ employee.annualSalary }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<p *ngIf="error"><em>{{error}}</em></p>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MasGlobal.Employee.API</name>
+    </assembly>
+    <members>
+        <member name="M:MasGlobal.Employee.API.Controllers.EmployeeController.GetEmployee(System.Int32)">
+            <summary>
+            Returns an employee that matches with the specified id
+            </summary>
+            <param name="id"></param>
+            <returns>Returns an employee that matches with the specified id</returns>
+            <response code="200">Returns an Employee object that matches with the specified id</response>
+        </member>
+        <member name="M:MasGlobal.Employee.API.Controllers.EmployeeController.GetEmployees">
+            <summary>
+            Returns a list of employees
+            </summary>
+            <returns>Returns a list of employees</returns>
+            <response code="200">Returns a list of employees</response>
+        </member>
+    </members>
+</doc>

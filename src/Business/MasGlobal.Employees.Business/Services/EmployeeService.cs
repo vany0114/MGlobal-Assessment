@@ -21,13 +21,13 @@ namespace MasGlobal.Employees.Business.Services
         public async Task<Employee> GetEmployeeAsync(int id)
         {
             var employeeInfo = await _employeesRepository.GetEmployeAsync(id);
-            return _employeeFactory.CreateEmployee(employeeInfo);
+            return employeeInfo == null ? null : _employeeFactory.CreateEmployee(employeeInfo);
         }
 
         public async Task<List<Employee>> GetEmployeesAsync()
         {
             var employeesInfo = await _employeesRepository.GetEmployeesAsync();
-            return _employeeFactory.CreateEmployees(employeesInfo.ToList());
+            return employeesInfo == null ? null : _employeeFactory.CreateEmployees(employeesInfo.ToList());
         }
     }
 }

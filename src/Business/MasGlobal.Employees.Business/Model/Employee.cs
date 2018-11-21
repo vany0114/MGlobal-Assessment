@@ -8,14 +8,16 @@
 
         public ContractType ContractType { get; set; }
 
+        public string ContractTypeDescription { get; set; }
+
         public int RoleId { get; set; }
 
         public string RoleName { get; set; }
 
-        public object RoleDescription { get; set; }
+        public double RoleDescription { get; set; }
 
-        public int Salary { get; set; }
+        public double Salary { get; set; }
 
-        public virtual int AnnualSalary { get; }
+        public virtual double AnnualSalary { get; }
     }
 }

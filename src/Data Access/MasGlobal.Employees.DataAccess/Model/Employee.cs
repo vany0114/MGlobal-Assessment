@@ -8,7 +8,7 @@
         public int RoleId { get; set; }
         public string RoleName { get; set; }
         public string RoleDescription { get; set; }
-        public int HourlySalary { get; set; }
-        public int MonthlySalary { get; set; }
+        public double HourlySalary { get; set; }
+        public double MonthlySalary { get; set; }
     }
 }

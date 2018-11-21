@@ -2,6 +2,8 @@
 {
     public class HourlyEmployee : Employee
     {
-        public override int AnnualSalary => 120 * base.Salary * 12;
+        // TODO: consider making these constants configurable.
+
+        public override double AnnualSalary => 120 * base.Salary * 12;
     }
 }

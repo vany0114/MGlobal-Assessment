@@ -4,3 +4,6 @@ C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\Mas
 C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\MasGlobal.Employees.DataAccess\obj\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\MasGlobal.Employees.DataAccess\obj\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.AssemblyInfoInputs.cache
 C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\MasGlobal.Employees.DataAccess\obj\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.AssemblyInfo.cs
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\MasGlobal.Employees.DataAccess\bin\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.pdb
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\MasGlobal.Employees.DataAccess\obj\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.dll
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Data Access\MasGlobal.Employees.DataAccess\obj\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.pdb

@@ -3,3 +3,10 @@ C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlo
 C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.csproj.CoreCompileInputs.cache
 C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.AssemblyInfoInputs.cache
 C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.AssemblyInfo.cs
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\bin\Debug\netcoreapp2.1\MasGlobal.Employees.Business.deps.json
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\bin\Debug\netcoreapp2.1\MasGlobal.Employees.Business.dll
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\bin\Debug\netcoreapp2.1\MasGlobal.Employees.Business.pdb
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\bin\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.pdb
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.csproj.CopyComplete
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.dll
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.pdb

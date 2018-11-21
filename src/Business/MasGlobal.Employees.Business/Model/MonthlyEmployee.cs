@@ -2,6 +2,6 @@
 {
     public class MonthlyEmployee: Employee
     {
-        public override int AnnualSalary => base.Salary * 12;
+        public override double AnnualSalary => base.Salary * 12;
     }
 }

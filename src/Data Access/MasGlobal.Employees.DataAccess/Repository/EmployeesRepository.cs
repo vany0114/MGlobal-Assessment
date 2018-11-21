@@ -25,7 +25,7 @@ namespace MasGlobal.Employees.DataAccess.Repository
 
         public async Task<IList<Employee>> GetEmployeesAsync()
         {
-            var response = await _apiClient.GetAsync("/");
+            var response = await _apiClient.GetAsync("Employees");
             if (response.StatusCode == HttpStatusCode.NotFound)
                 return null;
 
