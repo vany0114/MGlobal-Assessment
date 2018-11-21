@@ -1,0 +1,5 @@
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\bin\Debug\netcoreapp2.1\MasGlobal.Employees.DataAccess.dll
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.csprojAssemblyReference.cache
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.csproj.CoreCompileInputs.cache
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.AssemblyInfoInputs.cache
+C:\Users\vany0\OneDrive\Documentos\GitHub\MGlobal-Assessment\src\Business\MasGlobal.Employees.Business\obj\Debug\netcoreapp2.1\MasGlobal.Employees.Business.AssemblyInfo.cs
